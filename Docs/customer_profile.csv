@@ -1,0 +1,11 @@
+customer_id,home_location,avg_spend_per_day,preferred_category
+C001,Delhi,2000,E-commerce
+C002,Jaipur,500,Food
+C003,Delhi,800,Shopping
+C004,Mumbai,5000,Electronics
+C005,Pune,1200,Groceries
+C006,Chennai,3000,Luxury
+C007,Kolkata,700,Food
+C008,Hyderabad,2500,E-commerce
+C009,Bengaluru,4000,Electronics
+C010,Ahmedabad,900,Shopping
